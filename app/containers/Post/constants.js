@@ -1,0 +1,17 @@
+/*
+ *
+ * PostsPage constants
+ *
+ */
+
+export const postConsts = {
+  GET_POSTS: 'GET_POSTS',
+  POSTS_SUCCESS: 'POSTS_SUCCESS',
+  POSTS_FAIL: 'POSTS_FAIL',
+
+  ADD_POST: 'ADD_POST',
+  EDIT_POST: 'EDIT_POST',
+  HANDLE_CHANGE: 'HANDLE_CHANGE',
+  DELETE_POST: 'DELETE_POST',
+  SAVE_POST: 'SAVE_POST',
+};
